@@ -8,4 +8,4 @@ The development of this portfolio is my main focus at this time. I have set a go
 
 # Personal
 
-I am from Utah, but currently residing in New York City. I have a wide ranging skillset from fine art and classical piano to wilderness survival and auto mechanics, but found computer programming by way of user experience design. During Google's UX certification course, the elation from creating an interactive prototype for an art history app immediately sparked curiosity; how do I build it in its entirety from the ground up? That curiosity quickly morphed into obsession, and thus began my coding journey. 
+I am a lifelong Utahn. I have a wide ranging skillset from fine art and classical piano to wilderness survival and auto mechanics, but found computer programming by way of user experience design. During Google's UX certification course, the elation from creating an interactive prototype for an art history app immediately sparked curiosity; how do I build it in its entirety from the ground up? That curiosity quickly morphed into obsession, and thus began my coding journey. 
